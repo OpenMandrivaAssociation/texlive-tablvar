@@ -1,6 +1,6 @@
 Name:		texlive-tablvar
 Version:	51543
-Release:	1
+Release:	2
 Summary:	Typesetting pretty tables of signs and variations according to French usage
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tablvar
