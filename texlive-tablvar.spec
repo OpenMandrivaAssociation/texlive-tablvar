@@ -1,5 +1,5 @@
 Name:		texlive-tablvar
-Version:	69212
+Version:	72007
 Release:	1
 Summary:	Typesetting pretty tables of signs and variations according to French usage
 Group:		Publishing
