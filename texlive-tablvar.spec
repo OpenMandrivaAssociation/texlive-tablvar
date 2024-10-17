@@ -3,7 +3,7 @@ Version:	72007
 Release:	1
 Summary:	Typesetting pretty tables of signs and variations according to French usage
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tablvar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tablvar
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tablvar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tablvar.doc.r%{version}.tar.xz
